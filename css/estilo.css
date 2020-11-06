@@ -72,8 +72,9 @@ body{
 .fa.circle
   {
     border-radius: 50%;
-    width: 45px;
-    height: 45px;
+    width: 50px;
+    height: 50px;
+	background-color: rgba(0,0,0,0.23);
   }
 .fa-chevron-left{
     padding: 8% 8%; 
@@ -97,7 +98,7 @@ body{
 
 .icon-control div{
 	position: absolute;
-	left: 169px;
+	left: 8.5%;
 	top: 3px;
     width: 220px;
     height: 90px;
@@ -348,22 +349,23 @@ img.home{
 	height: 120px;
 }
 .menu-link{
-	width: 187px;
+	width: 12.7%;
 	height: 120px;
 	float: left;
-	margin-right: 8px;
+
+	background-color: rgba(0,0,0,0.23);
 }
 .menu-link.m2{
-	width: 177px;
+/*	width: 177px;*/
 }
 .menu-link.m3{
-	width: 172px;
+	width: 11.7%;
 }
 .menu-link.m4{
-	width: 174px;
+	width: 12%;
 }
 .menu-link.m8{
-	width: 210px;
+	width: 14%;
 	margin-right: 0;
 }
 
