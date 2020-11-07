@@ -74,7 +74,6 @@ body{
     border-radius: 50%;
     width: 30%;
     height: 50px;
-	background-color: rgba(0,0,0,0.23);
   }
 .fa-chevron-left{
     padding: 8% 8%; 
@@ -467,6 +466,38 @@ img.home{
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
+}
+.siguiente{
+	
+}
+
+.siguiente.estudio-9{
+	position: absolute;
+    top: 76%;
+    left: 36%;
+    width: 13%;
+    height: 10%;
+}
+.siguiente.estudio-10{
+	position: absolute;
+    top: 17%;
+    left: 23%;
+    width: 13%;
+    height: 11%;
+}
+.siguiente.estudio-11{
+	position: absolute;
+    top: 5%;
+    right: 18%;
+    width: 13%;
+    height: 10%;
+}
+.siguiente.ficha{
+	position: absolute;
+    top: 80%;
+    right: 11%;
+    width: 4%;
+    height: 8%;
 }
 
 /*
