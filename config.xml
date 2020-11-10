@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "ec.com.edifarm.flevodia"
+    id          = "ec.com.edifarm.flebodia"
     versionCode = "1"
     version     = "1.4.0" >
 
@@ -59,7 +59,7 @@
 
   <!-- Android only -->
   <preference name="android-build-tool" value="ant|gradle" />
-  <preference name="android-minSdkVersion" value="26" />
+  <preference name="android-minSdkVersion" value="16" />
 <!--  <preference name="android-maxSdkVersion" value="30" />-->
   <preference name="android-targetSdkVersion" value="29" />
   <preference name="android-installLocation" value="auto" />
